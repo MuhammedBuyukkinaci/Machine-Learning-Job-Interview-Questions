@@ -8,3 +8,7 @@ Containing questions that can be asked in a ML interview.
 3) Which ML algorithm may contain more than one target column during training? Describe briefly.
 
 4) What is the difference between Random Forest and Gradient Boosted Trees?
+
+5) Which machine learning algorithm works best with categorical features which have high cardinality?
+
+6) How do you feed categorical variables into Neural Networks for tabular data?
