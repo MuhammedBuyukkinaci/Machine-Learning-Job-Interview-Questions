@@ -12,3 +12,5 @@ Containing questions that can be asked in a ML interview.
 5) Which machine learning algorithm works best with categorical features which have high cardinality?
 
 6) How do you feed categorical variables into Neural Networks for tabular data?
+
+7) How do you handle null values if you want to train a NN?
