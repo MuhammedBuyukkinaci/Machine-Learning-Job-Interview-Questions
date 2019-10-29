@@ -14,3 +14,5 @@ Containing questions that can be asked in a ML interview.
 6) How do you feed categorical variables into Neural Networks for tabular data?
 
 7) How do you handle null values if you want to train a NN?
+
+8) Which ML algorithm is more preferrable when your dataset is relatively small and the number of features are high?
